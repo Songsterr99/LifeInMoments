@@ -133,13 +133,13 @@ hr{
 #f{
   background: #2d2d2d;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 #f i{
   color: #bdbdbd;
   font-size: 20px;
-  padding: 15px;
+  padding: 10px;
 }
 
 #f i:hover{
