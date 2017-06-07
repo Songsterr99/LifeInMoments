@@ -96,12 +96,13 @@ hr{
 }
 
 .visits img{
-  width: 180px;
-  height: 275px;
+  width: 275px;
+  height: 180px;
 }
 
 .w{
   padding-top: 35px;
+  padding-bottom: 20px;
 }
 
 .W h4{
@@ -167,4 +168,27 @@ hr{
   font-family: "Raleway";
   color: #6C7077;
   letter-spacing: 1px;
+}
+
+#dg{
+  background: #e0e0e0;
+  padding-top: 30px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+#preview{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+#preview p{
+  padding-right: 800px;
+  font-size:35px
+}
+
+.describe{
+  font-family: "Raleway";
+  font-size: 15px;
 }
